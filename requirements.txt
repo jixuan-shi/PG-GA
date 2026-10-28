@@ -1,0 +1,6 @@
+numpy
+matplotlib>=3.7
+scipy
+numba
+tqdm
+rasterio
